@@ -1,0 +1,4 @@
+baseURL = "http://waada.org/"
+languageCode = "en-us"
+title = "WAADA - Remember the promise..."
+theme = "ananke"
